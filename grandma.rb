@@ -2,7 +2,7 @@
 def speak_to_grandma(say)
     if say ==
       "HUH?! SPEAK UP, SONNY!"
-    elsif 
+    elsif
       "NO, NOT SINCE 1938!"
     elsif
     else
