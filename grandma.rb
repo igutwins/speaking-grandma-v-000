@@ -1,6 +1,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(say)
     if say ==
+      puts "HUH?! SPEAK UP, SONNY!"
     elsif # XXX:
     elsif
     else
